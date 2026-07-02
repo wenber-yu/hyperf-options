@@ -4,8 +4,8 @@
 # 安装
 
 ```
-composer require wilbur-yu/hyperf-options
-php ./bin/hyperf.php vendor:publish wilbur-yu/hyperf-options
+composer require wenber-yu/hyperf-options
+php ./bin/hyperf.php vendor:publish wenber-yu/hyperf-options
 php ./bin/hyperf.php migarte
 ```
 # 说明
